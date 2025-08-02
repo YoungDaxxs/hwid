@@ -1,2 +1,1 @@
-# hwid
-Norxma hwid's
+F4C88A80421F;2060-07-10
