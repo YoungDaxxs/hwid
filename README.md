@@ -1,0 +1,2 @@
+# hwid
+Norxma hwid's
